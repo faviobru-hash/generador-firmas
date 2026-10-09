@@ -1,0 +1,39 @@
+﻿========================================================================
+   CENTRO OFTALMOLÃ“GICO EBENEZER - GENERADOR OFICIAL DE FIRMAS
+========================================================================
+
+CONTENIDO DE ESTA CARPETA:
+1. generador-firmas-ebenezer.html
+   -> AplicaciÃ³n web interactiva. Ãbrela con doble clic en cualquier
+      navegador (Google Chrome, Microsoft Edge, etc.).
+   -> Permite personalizar en tiempo real:
+      - Modelo 1 (Logo a la izquierda) / Modelo 2 (Logo a la derecha).
+      - Estilo de Ã­conos: OpciÃ³n Positiva (Original) o Minimalista.
+      - Nombre completo, cargo, telÃ©fono, correo, direcciÃ³n y web.
+   -> Botones de exportaciÃ³n rÃ¡pida:
+      - "Copiar Firma (HTML)": Para pegar directo en Gmail o Webmail (Ctrl + V).
+      - "Copiar como Imagen": Para pegar en Outlook Desktop / correo (Ctrl + V).
+      - "Descargar PNG": Imagen en alta resoluciÃ³n (3x).
+      - "Descargar SVG": Vector escalable para diseÃ±o o Illustrator.
+
+2. FIRMA_MODELO_1.svg
+   -> Vector original de Illustrator (Modelo 1 - Logo a la izquierda).
+
+3. FIRMA_MODELO_2.svg
+   -> Vector original de Illustrator (Modelo 2 - Logo a la derecha).
+
+4. FIRMA_MODELO_1_CIRCLES.svg
+   -> Vector con los dos estilos de Ã­conos integrados para Modelo 1.
+
+5. FIRMA_MODELO_2_CIRCLES.svg
+   -> Vector con los dos estilos de Ã­conos integrados para Modelo 2.
+
+------------------------------------------------------------------------
+Â¿CÃ“MO USAR LA FIRMA EN TU CORREO?
+1. Haz doble clic en "generador-firmas-ebenezer.html".
+2. Ingresa tus datos en los campos de la izquierda.
+3. Elige el Modelo 1 o Modelo 2, y tu estilo de Ã­conos preferido.
+4. Presiona el botÃ³n verde "Copiar Firma (HTML)" o "Copiar como Imagen".
+5. Ve a la ConfiguraciÃ³n de tu correo (Gmail / Outlook), crea una nueva firma y presiona Ctrl + V.
+6. Â¡Listo! Tus datos y diseÃ±o quedarÃ¡n exactamente alineados.
+========================================================================
